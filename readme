@@ -1,0 +1,4 @@
+该工程从 https://github.com/dalymople/ubxtranslator.git 拷贝。
+在此非常感谢 dalymople
+
+我目前只用到 RXM 中的部分 Message ， 只添加了 UBX-RXM-MEASX
